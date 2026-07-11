@@ -1,0 +1,30 @@
+{
+    "name": "much better",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-raycasting": "github:The-Code-Zone/Raycasting-pxt-extension#6f3bd81686da0cc654fb0cff7c5c2bf8528480c3",
+        "Custom Systemmenu Options": "github:meeeeeeeep1/custom-systemmenu-options#master",
+        "browser-events": "*",
+        "controller": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.14",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
